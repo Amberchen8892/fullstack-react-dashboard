@@ -6,7 +6,6 @@ import {
   Search,
   SettingsOutlined,
   ArrowDropDownOutlined,
-  Settings,
 } from '@mui/icons-material';
 import FlexBetween from 'components/FlexBetween';
 import { useDispatch } from 'react-redux';
